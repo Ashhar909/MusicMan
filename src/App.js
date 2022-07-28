@@ -1,7 +1,9 @@
+import Home from "./Components/Home";
+
 function App() {
   return (
     <div>
-      npm afdjladhf jdhfwekd
+      <Home/>
     </div>
   );
 }
